@@ -40,7 +40,7 @@ export const Projects = () =>{
             > 
             View Project 🔗</a>
 
-            <a href="https://medium.com/your-article-link"
+            <a href="https://medium.com/@paboda-ratnayake/patterns-in-the-sky-a-flight-delay-analysis-1444df5d82d1"
             className="text-blue-400 hover:text-blue-300 transition-colors my-4"
             > 
             View Blog 📝</a>
